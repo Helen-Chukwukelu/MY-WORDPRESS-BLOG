@@ -305,6 +305,9 @@ It is a long step but you did it!!!
 
 
 
+I have Published the Article on my Blog to help for better understanding. It can be accessed at https://helenchukwukelu.hashnode.dev/how-to-host-wordpress-blog-on-microsoft-azure
+
+
 
 
 
